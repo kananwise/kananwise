@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I
+I'm new to development. Trying to learn git and a few other things. I'm sure it will be a fun journey!
 <!--
 **kananwise/kananwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
